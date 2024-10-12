@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://execiona.github.io/sitemap.html.gz
+Sitemap: https://execiona.github.io/app/sitemap.html.gz
+Sitemap: https://execiona.github.io/assets/sitemap.html.gz
+Sitemap: https://execiona.github.io/css/sitemap.html.gz
+Sitemap: https://execiona.github.io/includes/sitemap.html.gz
+Sitemap: https://execiona.github.io/item/sitemap.html.gz
+Sitemap: https://execiona.github.io/src/sitemap.html.gz
